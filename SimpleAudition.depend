@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1491843382 source:e:\cpp\simpleaudition\display.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<sstream>
+	"unit.h"
+
+1492102236 e:\cpp\simpleaudition\unit.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1493631939 source:e:\cpp\simpleaudition\main.cpp
+	<iostream>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<vector>
+	<time.h>
+	<string>
+	<sstream>
+	"utils.h"
+	<fstream>
+	<cstring>
+
+1491843382 e:\cpp\simpleaudition\display.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	"unit.h"
+	"display.h"
+
+1492097057 source:e:\cpp\simpleaudition\unit.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<sstream>
+	"unit.h"
+
+1493632175 source:e:\cpp\simpleaudition\utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<sstream>
+	<fstream>
+	<vector>
+	"utils.h"
+
+1493632175 e:\cpp\simpleaudition\utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<fstream>
+	<vector>
+
